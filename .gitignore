@@ -1,3 +1,4 @@
 .env
 send-and-receive-sms
 .vscode/
+.DS_Store
